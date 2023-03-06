@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ppe",
+  "name": "Personal Protective Expansion",
+  "description": "Adding Personal Protective Equipment(PPE) and configurable negative effects to minecraft making mining more interesting (and dangerous)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GDCM_05"],
+  "credits": "Gangshit no cap fr",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
